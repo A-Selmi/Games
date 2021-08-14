@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "590894519326",
+    "firebase_url": "https://games-fa304.firebaseio.com",
+    "project_id": "games-fa304",
+    "storage_bucket": "games-fa304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590894519326:android:a90efb55b3a8104b5b4a0f",
+        "android_client_info": {
+          "package_name": "com.abdullah.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590894519326-gqallvi4e7he4uu3sbk368gogu2c6k2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdullah.games",
+            "certificate_hash": "91ad54bed2fcd287fe486cc108f9fea043d516dd"
+          }
+        },
+        {
+          "client_id": "590894519326-29p7bt2rpsr4gek4q44pr7obu1lsjutu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASciY_UyW1_nDrm8zu_huBI8iapgxH05M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590894519326-29p7bt2rpsr4gek4q44pr7obu1lsjutu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
